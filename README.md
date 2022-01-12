@@ -1,6 +1,6 @@
 # Life Expectancy and GDP Starter - Data Analysis project
 
-The project has been made in the scope of my training at Codecademy.com.
+The project has been made in the scope of my training at Codecademy.com.  
 *Data source: World Health Organization and the World Bank*
 
 ## Objectives
